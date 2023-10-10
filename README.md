@@ -1,1 +1,1 @@
-# Seleenium project for C#
+# Selenium project for C#
